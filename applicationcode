@@ -20,4 +20,8 @@ Manual merge conflict
 =======
  
  fast forward
+<<<<<<< HEAD
 >>>>>>> b642133af1d742632bb14ffbcde3676580ed0b78
+=======
+manuall merge
+>>>>>>> 88fceef8a94ea80e0546a5972eff50cbc8d3d9bf
