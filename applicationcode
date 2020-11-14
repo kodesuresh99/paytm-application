@@ -1,3 +1,14 @@
+<<<<<<< HEAD
  this is for clonign  
 
  changes made in local for devolpoment 
+=======
+ this is for cloning 
+ 
+ 
+ this is the code devolped in feature branch 
+ 
+ 
+ 
+ this is second pull request option
+>>>>>>> refs/remotes/origin/main
