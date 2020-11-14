@@ -9,10 +9,15 @@
  this is the code devolped in feature branch 
  
  
- 
+Manual merge conflict  
  this is second pull request option
 <<<<<<< HEAD
 >>>>>>> refs/remotes/origin/main
 =======
  This for HIT full test
+<<<<<<< HEAD
 >>>>>>> befd5165aba0cbe3256bb0103da5eb55e0db9507
+=======
+ 
+ fast forward
+>>>>>>> b642133af1d742632bb14ffbcde3676580ed0b78
