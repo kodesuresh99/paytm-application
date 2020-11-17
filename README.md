@@ -11,7 +11,7 @@ this is editing in dev branch for auto merge example ........................
 <<<<<<< HEAD
 
 
-
+this is for the git
 this is ammend operatiomnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 =======
 cherrypick example
